@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mondus-Bridge. Just pseudo name
+- 👋 Hi, my name is Ilnur
 - 👀 I’m interested in digitial part of world
 - 🌱 I’m currently learning js 
 - 💞️ I’m looking to collaborate on - frankly, Idk) 
-- 📫 How to reach me: its website:mondus-bridge.ru and telegram app: @mondus
+- 📫 How to reach me: telegram app: @mondus
 
 <!---
 Mondus-Bridge/Mondus-Bridge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
